@@ -32,3 +32,5 @@ Test version. Some rules are still being checked against official sources (see [
 
 ## Help or feedback
 Use the feedback box at the end of the guide to report errors or confusing parts. Lawyers, social workers and CRAS staff who want to help review the rules: say so there and leave a contact email.
+
+(｡♥‿♥｡)
